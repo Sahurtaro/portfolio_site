@@ -1,0 +1,120 @@
+
+body{
+    background-color: white;
+    font-family: "Montserrat";
+}
+
+h1 { font-family: 'Montserrat' , sans-serif;  font-size: 2rem;  line-height: 1.5; }
+h2{
+    margin-bottom: 2rem;
+}
+h3{line-height: 1.5; margin-bottom: 3rem; font-weight: bold;}
+
+p{
+    color: #8f8f8f;
+}
+
+
+#title{
+    background-color: #9AD0EC;
+}
+
+#profile-paragraph{
+    color: rgba(0, 0, 0, 0.76);
+}
+
+.navbar{
+    padding: 1rem 0 0 1rem;
+}
+
+
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "Montserrat-light", sans-serif;
+}
+
+.container-fluid{
+    padding: 0% 15% 3% 15%;
+}
+
+.profile-container{
+    padding-top: 3rem;
+}
+
+#profile-text{
+    font-family: 'Monserrat-Black', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+#profile-paragraph{
+    font-size: 2rem;
+}
+
+.avatar-container{
+    text-align: center;
+    margin: auto;
+   
+}
+
+.text-container{
+    text-align: center;
+    padding-right: 0;
+    width: 100%;
+}
+
+.aboutme-container{
+    padding-top: 3rem;
+}
+
+.aboutme-text{    
+    text-align: left;
+}
+
+.aboutme{
+    margin-bottom: 2rem;
+}
+
+.aboutme-skills{
+    text-align: left;
+}
+
+
+.skill-icon{
+    margin: 2rem;
+    text-align: center;
+    width: 7rem;
+}
+
+/* Features section */
+
+#features{
+    padding: 7% 15%;
+    background-color: #EFDAD7;
+}
+
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+
+.icon{
+  margin-bottom: 1rem;
+  
+}
+
+.icon:hover{
+    color: #1572A1;
+}
+
+
+
+
