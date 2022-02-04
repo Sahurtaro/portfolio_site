@@ -17,6 +17,7 @@ p{
 
 #title{
     background-color: #9AD0EC;
+    
 }
 
 #profile-paragraph{
@@ -114,6 +115,26 @@ p{
 .icon:hover{
     color: #1572A1;
 }
+
+/* Projects section */
+
+#projects{
+    padding: 7% 15%;
+    
+}
+
+.project-container{
+    margin: 20px auto;
+}
+
+.project-img{
+    width: 110%;
+}
+
+.project-img:hover{
+    transform: scale(1.1);
+}
+
 
 
 
